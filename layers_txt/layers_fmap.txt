@@ -7,8 +7,8 @@
       "entries": [
         {
           "type": "Layer",
-          "id": "seamlessphoto",
-          "title": "試験版（ラスタ）",
+          "id": "test",
+          "title": "試験版（ラスタ）-縮小版",
           "url": "./xyz/raster-exp/{z}/{x}/{y}.png",
           "cocotile": true,
           "minZoom": 2,
