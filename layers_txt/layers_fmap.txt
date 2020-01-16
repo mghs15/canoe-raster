@@ -1,0 +1,22 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "大帝都市詳図",
+      "toggleall": false,
+      "entries": [
+        {
+          "type": "Layer",
+          "id": "seamlessphoto",
+          "title": "試験版（ラスタ）",
+          "url": "./xyz/raster-exp/{z}/{x}/{y}.png",
+          "cocotile": true,
+          "minZoom": 2,
+          "maxNativeZoom": 14,
+          "maxZoom": 18,
+          "html": "出典:『大帝都市詳図』拾参號地・筆"
+        }
+      ]
+    }
+  ]
+}
